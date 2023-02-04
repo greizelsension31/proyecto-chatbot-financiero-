@@ -1,0 +1,347 @@
+{
+    "intents": [
+        {
+            "tag": "saludos",
+            "patterns": [
+                "Hola",
+                "Hola que tal",
+                "Buenas", 
+                "wuenas",
+                "holi",
+                "oli",
+                "holis",
+                "holaa",
+                "saludos",
+                "holap",
+                "ola",
+                "olis",
+                "Holis",
+                "wenas"
+            ],
+            "responses": [
+                "Hola \n Atravez de esta via te podemos ayudar en temas de: \n1. Servicios de banca en linea?\n2. Cuales son las  tasas de interes del  banco? \n3. Como  obtener una tarjeta de credito? \n4. Como  obtener una tarjeta de debito? \n5. que tipo de cuentas de ahorro ofrece el banco\n6. Las tasas de interes para las cuentas de ahorro \n7. Promocion de ahorro disponible \n8. Como retirar dinero invertido ?\n9. Opcion de sevicio al cliente para acesoria personalizada", 
+                "Bienvenido a Ready , ¿dime en que te puedo ayudar? , tenemos esta opciones:  \n1. Servicios de banca en linea?\n2. Cuales son las  tasas de interes del  banco? \n3. Como  obtener una tarjeta de credito? \n4. Como  obtener una tarjeta de debito? \n5. que tipo de cuentas de ahorro ofrece el banco\n6. Las tasas de interes para las cuentas de ahorro \n7. Promocion de ahorro disponible \n8. Como retirar dinero invertido ?\n9. Opcion de sevicio al cliente para acesoria personalizada",
+                "Bienvenido soy Ready ¿te ayudo en algo ? tengo estas opcines: \n1. Servicios de banca en linea?\n2. Cuales son las  tasas de interes del  banco? \n3. Como  obtener una tarjeta de credito? \n4. Como  obtener una tarjeta de debito? \n5. que tipo de cuentas de ahorro ofrece el banco\n6. Las tasas de interes para las cuentas de ahorro \n7. Promocion de ahorro disponible \n8. Como retirar dinero invertido ?\n9. Opcion de sevicio al cliente para acesoria personalizada",
+                "Me llamo Ready y estoy para ayudarte , ¿dime que puedo hacer por ti? estas son nuestras opciones:  \n1. Servicios de banca en linea?\n2. Cuales son las  tasas de interes del  banco? \n3. Como  obtener una tarjeta de credito? \n4. Como  obtener una tarjeta de debito? \n5. que tipo de cuentas de ahorro ofrece el banco\n6. Las tasas de interes para las cuentas de ahorro \n7. Promocion de ahorro disponible \n8. Como retirar dinero invertido ?\n9. Opcion de sevicio al cliente para acesoria personalizada"
+            ]
+        },
+        {
+            "tag": "saludo 1.2",
+            "patterns": [
+                "Buenos dias",
+                "Buen dia ",
+                "Buenos diap",
+                "Buen dia",
+                "Buen diaaa",
+                "Wen dia ",
+                "Wenos dias",
+                "Buenos diass",
+                "Buen diass",
+                "Hola, Buenos dias",
+                "Buenos dias ,necesito ayuda",
+                "buenos dia necesito acesoramiento",
+                "buen dia, necesito acesoria"
+            ],
+            "responses": [
+                "Buenos dias \n Atravez de esta via te podemos ayudar en temas de: \n1. Servicios de banca en linea?\n2. Cuales son las  tasas de interes del  banco? \n3. Como  obtener una tarjeta de credito? \n4. Como  obtener una tarjeta de debito? \n5. Que tipo de cuentas de ahorro ofrece el banco\n6. Las tasas de interes para las cuentas de ahorro \n7. Promocion de ahorro disponible \n8. Como retirar dinero invertido ?\n9. Opcion de sevicio al cliente para acesoria personalizada", 
+                "Bienvenido a Ready, ¿dime en que te puedo ayudar? , tenemos esta opciones:  \n1. Servicios de banca en linea?\n2. Cuales son las  tasas de interes del  banco? \n3. Como  obtener una tarjeta de credito? \n4. Como  obtener una tarjeta de debito? \n5. Que tipo de cuentas de ahorro ofrece el banco\n6. Las tasas de interes para las cuentas de ahorro \n7. Promocion de ahorro disponible \n8. Como retirar dinero invertido ?\n9. Opcion de sevicio al cliente para acesoria personalizada",
+                "Bienvenido soy Ready ¿te ayudo en algo ? tengo estas opcines: \n1. Servicios de banca en linea?\n2. Cuales son las  tasas de interes del  banco? \n3. Como  obtener una tarjeta de credito? \n4. Como  obtener una tarjeta de debito? \n5. Que tipo de cuentas de ahorro ofrece el banco\n6. Las tasas de interes para las cuentas de ahorro \n7. Promocion de ahorro disponible \n8. Como retirar dinero invertido ?\n9. Opcion de sevicio al cliente para acesoria personalizada",
+                "Me llamo Ready y estoy para ayudarte , ¿dime que puedo hacer por ti? estas son nuestras opciones:  \n1. Servicios de banca en linea?\n2. Cuales son las  tasas de interes del  banco? \n3. Como  obtener una tarjeta de credito? \n4. Como  obtener una tarjeta de debito? \n5. Que tipo de cuentas de ahorro ofrece el banco\n6. Las tasas de interes para las cuentas de ahorro \n7. Promocion de ahorro disponible \n8. Como retirar dinero invertido ?\n9. Opcion de sevicio al cliente para acesoria personalizada"
+            ]
+        },
+        {
+            "tag": "Banca en linea",
+            "patterns": [
+                "¿Como puedo acceder a la banca en linea?",
+                "¿Como podria acceder en la banca en linea?",
+                "¿Como puedo acceder en la banca en linea?",
+                "¿Se puede acceder a la banca en linea desde la pc?",
+                "¿Se puede acceder a la banca en linea desde la computadora?",
+                "¿Se puede acceder a la banca en linea desde el celular?",
+                "Acceder a la banca en linea",
+                "Quiero aceder a la banca en linea, ¿como lo hago?",
+                "Quiero aceder a la banca en linea",
+                "¿Como debo hacer para entrar a la banca en linea?"
+            ],
+            "responses": [
+                "Se puede acceder a la banca en linea atravez de cualquier dispositivo con accesibilidad a internet por medio de nuestra via web, en www.gbank.com."
+            ]
+        },
+        {
+            "tag": "servicios banca en linea",
+            "patterns": [
+                "¿Que servicios bancarios me ofrece la banca en linea?",
+                "¿Que tipo de servicios bancarios me ofrece la banca en linea?",
+                "¿cuales servicios tiene el banca en linea?",
+                "1"
+            ],
+            "responses": [
+                "Se puede acceder a la banca en linea atravez de cualquier dispositivo con accesibilidad a internet por medio de nuestra via web, en www.gbank.com."
+            ]
+        },
+        {
+            "tag": "tarjeta de debito",
+            "patterns": [
+                "¿Como aplicar a una tarjeta de debito? ",
+                "¿Como debo hacer para aplicar a una tarjeta de debito?",
+                "¿Como aplico a una tarjeta de debito?",
+                "pasos para aplicar a una tarjeta de debito",
+                "deseo aplicar a una tarjeta de debito",
+                "quieroo aplicar a una tarjeta de debito",
+                "¿que debo hacer para aplicar a una tarjeta de debito?",
+                "quiero una tarjeta debito",
+                "¿Como hago para obtener una tarjeta de  debito?",
+                "¿Como puedo aplicar a una tarjeta de debito?",
+                "4"
+            ],
+            "responses": [
+                "1. Debe tener una cuenta bancaria activa\n2. Debes tener un minimpo de ingreso para obtener una tarjeta de debito \n3. Puedes obtener una tarjeta de debito si abres una cuenta de ahorro o cheque "
+            ]
+        },
+        {
+            "tag": "Ahorro 1.1 ",
+            "patterns": [
+                "¿que tipo de cuentas de ahorro ofrece el banco?",
+                "¿Cuales tipos de cuentas de ahorro hay?",
+                "¿cual tipo de cuentas de ahorro hay?",
+                "¿que tipo de cuentas de ahorros hay?",
+                "¿tipos de cuenta de ahorro?",
+                "tipos de cuenta de ahorro",
+                "5"
+            ],
+            "responses": [
+                "contamos con distintos tipos de cuentas de ahorro, estos tipos de cuentas serian: \n1. Cuenta de Ahorro a la vista. \n2. Cuenta de Ahorro a plazo con giro incondicional \n3. Cuenta de Ahorro a plazo con giro diferido. \n4. Cuentas para la Vivienda. \n 5.Cuentas de Ahorro para la Educación. \n 6.Cuenta de Ahorro de fin de año. \n Para mas informacion o si desea abrir algunas de estas cuemtas de ahorro puede marcar al 292-3345 en donde lo atendera servicio al cliente o visitenos en la sucursal mas cercana..."
+            ]
+        },
+        {
+            "tag": "A la vista",
+            "patterns": [
+                "¿que es una cuenta de ahorro a la vista?",
+                "¿En que conciste una cuenta de ahorro a la vista?",
+                "cuenta de ahorro a la vista ",
+                "ahorro a la vista",
+                "¿que es una cuenta a la vista?"
+            ],
+            "responses": [
+                "Las cuentas a la vista aunque llevan el nombre de ahorro, estas son cuentas en moneda nacional en las que el ahorrante no recibe reajustes ni intereses; pueden ser unipersonales o para varias personas y permiten que la institución que las mantiene cobre comisiones. \n Su objetivo es el de mantener el dinero en un lugar seguro y son abiertas, tradicionalmente, por entidades que requieren tener el dinero disponible para su uso en cualquier momento."
+            ]
+        },
+        {
+            "tag": "Tarjeta de credito",
+            "patterns": [
+                "¿Como aplicar a una tarjeta de credito? ",
+                "¿Como debo hacer para aplicar a una tarjeta de credito?",
+                "¿Como aplico a una tarjeta de credito?",
+                "¿pasos para aplicar a una tarjeta de credito?",
+                "¿deseo aplicar a una tarjeta de credito?",
+                "¿quieroo aplicar a una tarjeta de credito?",
+                
+                
+                "¿que debo hacer para aplicar a una tarjeta de credito?",
+                "quiero una tarjeta credito",
+                "¿Como hago para obtener una tarjeta de credito?",
+                "¿Como puedo aplicar a una tarjeta de credito?",
+                "3"
+            ],
+            "responses": [
+                "Comparar las diferentes opciones de tarjetas de credito.\n1. Comparar las tasas de interes, los beneficios y las tarifas antes de tomar una decisión.\n2. Tener un historial crediticio estable y un ingreso regular \n3. Asegurarse de cumplir con los requisitos de ingresos, historial crediticio.\n4. Si tiene un historial crediticio limitado o no está seguro de cumplir con los requisitos de una tarjeta tradicional, considere solicitar una tarjeta de crédito garantizada."
+            ]
+        },
+        {
+            "tag": "Plazo con giro incondicional",
+            "patterns": [
+                "¿que es una cuenta de ahorro de plazo con giro incondicional?",
+                "¿En que conciste una cuenta de plazo con giro incondicional?",
+                "¿que es un plazo giro incondicional?",
+                "¿plazo giro incondicional que es?",
+                "¿quiero saber que es un plazo con giro incondicional"
+            ],
+            "responses": [
+                "Las cuentas a plazo con giro incondicional son aquellas cuentas en que el ahorrante puede girar en cualquier momento la totalidad del dinero depositado."
+            ]
+        },
+        {
+            "tag": "vivienda",
+            "patterns": [
+                "¿que es una cuenta de ahorro de vivenda?",
+                "¿En que conciste una cuenta de vivienda?",
+                "¿que es ahorro de vivienda?",
+                "¿Ahorro de vivienda que es?",
+                "¿quiero saber que es un ahorro de vivienda"
+            ],
+            "responses": [
+                "Es una cuenta que te permite unicamente ahorrar hasta alcansar valor de la vivienda que hay que pagar."
+            ]
+        },
+        {
+            "tag": "Estudios",
+            "patterns": [
+                "¿que es una cuenta de ahorro de estudios?",
+                "¿En que conciste una cuenta de estudios?",
+                "¿Ahorro de estudios que es?",
+                "¿quiero saber que es un ahorro de estudios"
+            ],
+            "responses": [
+                "Se trata de cuentas en las que se puede ahorrar para pagar los gastos relacionados con los estudios."
+            ]
+        },
+        {
+            "tag": "fin de año",
+            "patterns": [
+                "¿que es una cuenta de ahorro de fin de año?",
+                "¿En que conciste una cuenta de fin de año?",
+                "¿Ahorro de fin de año que es?",
+                "¿quiero saber que es un ahorro de fin de año"
+            ],
+            "responses": [
+                "Es un tipo de ahorro en donde inicias a ahorrar para entoces poder retirar a fin de año, antes de fin año no podrias."
+            ]
+        },
+        {
+            "tag": "servicio al cliente",
+            "patterns": [
+                "¿Puedo hablar con una persona?",
+                "¿Como puedo hablar con alguien?",
+                "me puede atender una empleado",
+                "quiero atencion al cliente",
+                "me puede ayudar algun trabajador",
+                "necesito ayuda de un empleado",
+                "9"
+            ],
+            "responses": [
+                "si, claro. este es el numero para que hables con uno de nuestros agentes de atencion al cliente:  292-3345 "
+            ]
+        },
+        {
+            "tag": "Ahorro1.3 ",
+            "patterns": [
+                " Hay algunas promocion de ahorro disponible ",
+                " Tienen promocion de ahorro disponible",
+                " ¿Cuentan con promociones disponibles de ahorro?",
+                " ¿Promocion de ahorro disponible?",
+                " ¿Promociones de ahorro disponible?",
+                "7"
+            ],
+            "responses": [
+                "Si tenemos promociones de ahorro disponibles como:\n1.doble interes  durante un periodo de tiempo especifico, 2.  tasa de interes doble a las cuentas de ahorro nuevas 3. si ahorra tres meses  500$ el banco le dara un bono efectivo. ",
+                "Si tenemos promociones de ahorro disponibles como:\n1.doble interes  durante un periodo de tiempo especifico, 2.  tasa de interes doble a las cuentas de ahorro nuevas 3. si ahorra tres meses  500$ el banco le dara un bono efectivo. ",
+                "Si tenemos promociones de ahorro disponibles como:\n1.doble interes  durante un periodo de tiempo especifico, 2.  tasa de interes doble a las cuentas de ahorro nuevas 3. si ahorra tres meses  500$ el banco le dara un bono efectivo. ",
+                "Si tenemos promociones de ahorro disponibles como:\n1.doble interes  durante un periodo de tiempo especifico, 2.  tasa de interes doble a las cuentas de ahorro nuevas 3. si ahorra tres meses 500$ el banco le dara un bono efectivo. "
+            ]
+        },
+        {
+            "tag": "Plazo con giro diferido",
+            "patterns": [
+                "¿Que es una cuenta de ahorro de plazo con giro diferido?",
+                "¿En que conciste una cuenta de plazo con giro diferido?",
+                "¿Que es un plazo giro diferido?",
+                "¿Plazo giro diferido que es?",
+                "Quiero saber que es un plazo con giro diferido"
+            ],
+        
+            "responses": [
+                "Son aquellas cuentas en que el ahorrante sólo puede girar el dinero depositado con previo aviso a la entidad bancaria con una anticipación mínima de 30 días corridos."
+            ]
+            },{
+                "tag":"inverciones 1.1",
+                "patterns":[ 
+                    "como puedo retir mi dinero invertido",
+                    "¿como seria los paso para retirar dinero de inversion?",
+                    "¿como retiro mi dinero invertido?",
+                    "¿retiro de mi plata invertida?",
+                    "¿retiro de dinero invertido?",
+                    "¿cuales serian los pasos para retir el dinero de mi inviersion?",
+                    "8"
+                ],
+                "responses":[
+                    "Puede retirar su dinero invertido una vez haya conseguido su cantidad deseada en cualquier momento que asi lo desee, acerquese a cualquiera de nuestros cajeros automaticos para ritirar su dinero, si es superior a 500 dolares debe acercarse a la sucursal mas cercana con los documentos debidos para su retiro."
+                ]
+        },
+        {
+            "tag": "Ahorro 1.2",
+            "patterns": [
+                "¿Cuales son las tasas de interes para las cuentas de ahorro?",
+                "¿Las tasas de interes para las cuentas de ahorro cuales son?",
+                "¿Como son las tasas de interes que tiene el banco?",
+                "Tasas de interes del banco ",
+                "2"
+            ],
+            "responses": [
+                "Las tasas de interes varian desde el 0.7 % hasta el 1.5 % ,entre mayor sea la cantidad de dinero la tasas de intereses seran altas y si es menos dinero  sera mas baja la tasa de interes",
+                "Las tasas de interes varian desde el 0.7 % hasta el 1.5 % ,entre mayor sea la cantidad de dinero la tasas de intereses seran altas y si es menos dinero  sera mas baja la tasa de interes"
+            ]
+        },
+        {
+            "tag":"despedida",
+            "patterns":[
+                "Gracias ",
+                "Adios",
+                "Gracias por todo",
+                "Agradezco la asesoria",
+                "Muchas gracias",
+                "Gracias por el servicio",
+                "Muchisimas gracias",
+                "Ok",
+                "Bueno",
+                "ESta bien, Gracias",
+                "Gracis",
+                "Graciap",
+                "Graciasss"
+
+            ],
+            "responses":[
+                "Ready esta para servirte, vuelve pronto",
+                "espero verte pronto , hasta luego",
+                "que estes bien , te esperamos pronto",
+                "hasta luego que estes bien , visita nuestro banco"
+            ]
+        },
+        {
+            "tag": "bdias",
+            "patterns": [
+                "Que tenga buenos dias, gracias por su ayuda",
+                "Graccias por su ayuda que tenga buen dia",
+                "Muchisimas gracias por su ayuda, espero tenga buen dia",
+                "Que tenga buen dia",
+                "Que termines de tener buen dia",
+                "Que tengas buen dia",
+                "Que termines de pasar buen dia"
+            ],
+            "responses": [
+                "Espero poder haberle sido de ayuda y solucionar todas sus dudas, que termine de pasar buen dia, si su duda no fue solucionada vicite nuestra sucursal mas cercana o marque al 292-3345 en donde lo atendera nuestro servicio al cliente"
+            ]
+        },
+        {
+            "tag": "btardes",
+            "patterns": [
+                "Que tenga buenas tardes, gracias por su ayuda",
+                "Graccias por su ayuda que tenga buena tarde",
+                "Muchisimas gracias por su ayuda, espero tenga buena tarde",
+                "Que tenga buen dia",
+                "Que termines de tener buena tarde",
+                "Que tengas buen dia",
+                "Que termines de pasar buenas tardes"
+            ],
+            "responses": [
+                "Espero poder haberle sido de ayuda y solucionar todas sus dudas, que termine de pasar una buena tarde, si su duda no fue solucionada vicite nuestra sucursal mas cercana o marque al 292-3345 en donde lo atendera nuestro servicio al cliente"
+            ]
+        },
+        {
+            "tag":"bnoches",
+            "patterns":[
+                "Gracias , buenas noches",
+                "Gracias  feliz noche",
+                "Feliz noche , gracias",
+                "Buenis noshe, gracias ",
+                "buen noches gracias",
+                "estoy agradecido buenas noches",
+                "Agradezco su asesoria , buenas noches"
+            ],
+            "responses":[
+                "Vuelve pronto , que tengas Buenas noche",
+                "Que estes bien feliz noche , consulta a READY cuando quieras",
+                "Feliz noche , espero a ver sido de ayuda"
+            ]
+        }
+    ]
+}
